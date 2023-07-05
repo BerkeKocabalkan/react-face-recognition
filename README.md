@@ -1,6 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This code performs a comparison between given images and reference images. If the similarity is below the specified threshold, no match is made.
 
 ## Available Scripts
 
